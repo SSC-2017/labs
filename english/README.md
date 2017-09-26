@@ -4,7 +4,7 @@
 ## Lab hours
 
 * Tuesdays
-    - 8:00-10:00 B528b (Krody Robert)
+    - 8:00-10:00 B528a (Krody Robert)
 
 
 ## Student obligations
