@@ -29,6 +29,9 @@ And the useful system calls:
 - `stat`
 - `getpwuid`
 - `getgrgid`
+- `opendir`
+- `readdir`
+- `closedir`
 
 Compiling a C file:
 - `gcc -o file file.c`

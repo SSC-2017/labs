@@ -29,6 +29,9 @@ Apeluri de sistem utile:
 - `stat`
 - `getpwuid`
 - `getgrgid`
+- `opendir`
+- `readdir`
+- `closedir`
 
 Compilarea unui fisier C:
 - `gcc -o file file.c`
