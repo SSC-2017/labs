@@ -1,5 +1,6 @@
 # CS-SSC-2017
 
+Test: [URL](https://goo.gl/crDGcE)
 
 ### Computer security 
 Updated: 30 Sep. 8pm
