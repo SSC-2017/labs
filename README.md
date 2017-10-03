@@ -2,6 +2,10 @@
 
 ## Test: [URL](https://goo.gl/crDGcE)
 
+## Emails:
+krody.robi@gmail.com
+flavius.mecea@gmail.com
+
 ### Computer security 
 Updated: 30 Sep. 8pm
 
