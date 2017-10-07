@@ -8,17 +8,17 @@ Please add `[SSC]` in the email subject.
  * flavius.mecea@gmail.com
 
 ### Computer security 
-Updated: 30 Sep. 8pm
+Updated: 6 Oct. 8pm
 
 - [Rules](./english/README.md)
-- [Latest lab notes](./english/week-02.md) 
+- [Latest lab notes](./english/week-03.md) 
 - Lab [grades](https://docs.google.com/spreadsheets/d/1QIXVsl0xkdBPtROjmkI7Fu-8IuidCkD3Ni_2N5Vr_us/edit?usp=sharing)
 
 ### Securitatea Sistemelor de calcul
-Updated: 30 Sep. 8pm
+Updated: 6 Oct. 8pm
 
 - [Reguli](./romana/README.md)
-- [Notite laborator curent](./english/week-02.md)
+- [Notite laborator curent](./english/week-03.md)
 - [Note](https://docs.google.com/spreadsheets/d/1QIXVsl0xkdBPtROjmkI7Fu-8IuidCkD3Ni_2N5Vr_us/edit?usp=sharing) laborator
 
 
