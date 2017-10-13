@@ -11,17 +11,12 @@ Please add `[SSC]` in the email subject.
 Updated: 13 Oct. 6pm
 
 - [Rules](./Rules.md)
-- [Latest lab notes](./english/week-04.md) 
+- [Latest lab notes](./materials/week-04.md) 
 - Lab [grades](https://docs.google.com/spreadsheets/d/1QIXVsl0xkdBPtROjmkI7Fu-8IuidCkD3Ni_2N5Vr_us/edit?usp=sharing)
 
 ### Securitatea Sistemelor de calcul
 Updated: 13 Oct. 6pm
 
 - [Reguli](./Reguli.md)
-- [Notite laborator curent](./english/week-04.md)
+- [Notite laborator curent](./materials/week-04.md)
 - [Note](https://docs.google.com/spreadsheets/d/1QIXVsl0xkdBPtROjmkI7Fu-8IuidCkD3Ni_2N5Vr_us/edit?usp=sharing) laborator
-
-
-Tinand cont ca toti termenii si explicatiile sunt predominant in limba Engleza am pus cerintele toate la un loc.
-Link-urile din acest README vor fi tinute up-to-date, chiar daca format-ul pe disk se va schimba.
-Daca exista probleme cu intelegerea documentatiei si nu se rezolva cu Google translate puteti intreba la laborator oricand.
