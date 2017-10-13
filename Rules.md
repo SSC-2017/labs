@@ -59,3 +59,6 @@ as there are chairs in the lab and we have enough room. Priority will be given t
 
 If enough people wish we can replace one of the normal labs with a lab in which each student will present a topic regarding this security field,
 be it a technology / hacks performed in the past etc.
+
+
+Topic selection deadline - **week 6**
