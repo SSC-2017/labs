@@ -1,6 +1,6 @@
 # CS-SSC-2017
 
-## Test: [URL](https://goo.gl/pJaEWt)
+## Test: [URL](https://goo.gl/forms/kw6d5ojwnvkvBFyB3)
 
 ## Emails:
 Please add `[SSC]` in the email subject.
