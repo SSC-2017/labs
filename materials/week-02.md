@@ -5,7 +5,7 @@
 Starting with this lab we will be using the virtual machines!
 
 
-### Problems: [here](http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Vulnerability/Set-UID/Set-UID.pdf)
+## Problems: [here](http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Vulnerability/Set-UID/Set-UID.pdf)
 
 
 ### Resources:
