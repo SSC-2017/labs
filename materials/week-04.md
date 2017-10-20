@@ -3,7 +3,7 @@
 
 ### Problems: [here](http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Software/Return_to_libc/Return_to_libc.pdf)
 
-## Resources
+### Resources
 Those are required, remember that you have to sustain a short quiz before start.
 
  * [Week 4 of the course](http://staff.cs.upt.ro/~marius/curs/sec/index.html)
