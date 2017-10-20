@@ -4,7 +4,7 @@
 ## Before you start [read rules](./README.md)
 
 
-### Problems: [here](http://staff.cs.upt.ro/~marius/curs/sec/2012/lab1.html)
+## Problems: [here](http://staff.cs.upt.ro/~marius/curs/sec/2012/lab1.html)
 
 
 ### Resources:
