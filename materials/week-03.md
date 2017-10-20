@@ -1,9 +1,9 @@
 # Lab 3. 10-11 October - Buffer-Overflow Vulnerability 
 This lab aims to gain experience on buffer-overflow vulnerability by practicing some simple exercises.
 
-### Problems: [here](http://www.cis.syr.edu/%7Ewedu/seed/Labs_12.04/Vulnerability/Buffer_Overflow/Buffer_Overflow.pdf)
+## Problems: [here](http://www.cis.syr.edu/%7Ewedu/seed/Labs_12.04/Vulnerability/Buffer_Overflow/Buffer_Overflow.pdf)
 
-## Resources
+### Resources
 Those are required, remember that you have to sustain a short quiz before start.
 
  * [Week 3 of the course](http://staff.cs.upt.ro/%7Emarius/curs/sec/)
