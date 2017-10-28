@@ -9,7 +9,7 @@ This lab aims to introduce you to a new class of security vulnerabilities, those
 ### Problems: [here](http://www.cis.syr.edu/%7Ewedu/seed/Labs/Attacks_TCPIP/TCPIP.pdf)
 For this lab students can work alone or in group of 2 to 3 students.
 
-This lab should contain a more detailed **lab report** and should cover the following:
+This lab should contain a more detailed **LAB REPORT** and should cover the following(see section 4 from lab description):
  * *Design*: The design of your attack, including strategies that you used and tools that you used.
  * *Observation*: Do you succeeded? Why not? What do you expect to see? etc..
  * *Explanation*: You need to document by searching on Internet or from your experiments why your attack works or why not.
@@ -19,7 +19,7 @@ This lab should contain a more detailed **lab report** and should cover the foll
 As always those are required for successfully complete the tasks and for quiz.
 
  * [SEED lab course](http://www.cis.syr.edu/%7Ewedu/seed/Labs/Attacks_TCPIP/)
- * [Lab page](http://www.cis.syr.edu/%7Ewedu/seed/Labs/Attacks_TCPIP/TCPIP.pdf)
+ * [Lab description and task](http://www.cis.syr.edu/%7Ewedu/seed/Labs/Attacks_TCPIP/TCPIP.pdf)
  * [Tools guide](http://www.cis.syr.edu/~wedu/seed/Documentation/Misc/netwox.pdf) and [examples](http://www.cis.syr.edu/%7Ewedu/Teaching/cis758/netw522/netwox-doc_html/html/examples.html)
 
 And more:
