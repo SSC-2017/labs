@@ -21,6 +21,7 @@ As always those are required for successfully complete the tasks and for quiz.
  * [SEED lab course](http://www.cis.syr.edu/%7Ewedu/seed/Labs/Attacks_TCPIP/)
  * [Lab description and task](http://www.cis.syr.edu/%7Ewedu/seed/Labs/Attacks_TCPIP/TCPIP.pdf)
  * [Tools guide](http://www.cis.syr.edu/~wedu/seed/Documentation/Misc/netwox.pdf) and [examples](http://www.cis.syr.edu/%7Ewedu/Teaching/cis758/netw522/netwox-doc_html/html/examples.html)
+ * [The book](http://www.cis.syr.edu/~wedu/seed/Book/book_sample_tcp.pdf)
 
 And more:
  * [Week 6 of the course](http://staff.cs.upt.ro/~marius/curs/sec/index.html)
