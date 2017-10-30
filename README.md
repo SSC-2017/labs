@@ -6,7 +6,7 @@
 If you have a laptop, consider bringing it with the required setup to the lab as the computers barely run 2 VMs at one time let alone 3.
 The configuration setup can be found on the lab page.
 
-## Test: [URL](https://drive.google.com/open?id=1JXvDXak4lJuKKmLmVDCaA6dX4bw0WL07GVQR5jeoYb8)
+## Test: [URL](https://goo.gl/forms/RaofdPYFLOCJG0Vl1)
 
 ## Emails:
 Please add `[SSC]` in the email subject.
