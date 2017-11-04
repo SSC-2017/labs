@@ -6,6 +6,9 @@
 If you have a laptop, consider bringing it with the required setup to the lab as the computers barely run 2 VMs at one time let alone 3.
 The configuration setup can be found on the lab page.
 
+### Reminder - Security Talk (presentation) DEADLINE 5 Oct.
+- [topic list](https://docs.google.com/spreadsheets/d/1Q5wXGK98RMclH6P88nW2YeXiKrz9E03j9ULzDwMXx4U/edit?usp=sharing) should already be final.
+
 ## Test: [URL](https://goo.gl/forms/RaofdPYFLOCJG0Vl1)
 
 ## Emails:
