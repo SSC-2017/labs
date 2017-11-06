@@ -9,7 +9,7 @@ The configuration setup can be found on the lab page.
 ### Reminder - Security Talk (presentation) ~~DEADLINE 5 Oct~~ status updated on spreadsheet.
 - [topic list](https://docs.google.com/spreadsheets/d/1Q5wXGK98RMclH6P88nW2YeXiKrz9E03j9ULzDwMXx4U/edit?usp=sharing) should already be final.
 
-## Test: [URL](https://goo.gl/forms/O3zdq7SW3PWsjVHv2)
+## Test: [URL](https://goo.gl/forms/uzUrUPE0rY6CipC62)
 
 ## Emails:
 Please add `[SSC]` in the email subject.
