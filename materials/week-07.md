@@ -4,7 +4,14 @@ The objective of this lab is to understand how DNS attacks work.
 
 
 ### Problems: [here](http://www.cis.syr.edu/%7Ewedu/seed/Labs/Attacks_DNS/DNS.pdf)
-For this lab students can work alone or in group of 2 to 3 students.
+
+For this lab students can work alone or in group of 2 to 3 students. DEADLINE 13 Nov. 11:59 PM
+
+This lab should contain a more detailed LAB REPORT and should cover the following(see section 4 from lab description):
+
+Design: The design of your attack, including strategies that you used and tools that you used.
+Observation: Do you succeeded? Why not? What do you expect to see? etc..
+Explanation: You need to document by searching on Internet or from your experiments why your attack works or why not.
 
 
 ### Resources
