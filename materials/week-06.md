@@ -2,12 +2,12 @@
 This lab aims to introduce you to a new class of security vulnerabilities, those at a network level.
 
 
-### Reminder - Security Talk (presentation) DEADLINE 4 Oct.
+### Reminder - Security Talk (presentation) DEADLINE 4 Nov.
 - [topic list](https://docs.google.com/spreadsheets/d/1Q5wXGK98RMclH6P88nW2YeXiKrz9E03j9ULzDwMXx4U/edit?usp=sharing) should already be final.
 
 ### Problems: [here](http://www.cis.syr.edu/%7Ewedu/seed/Labs/Attacks_TCPIP/TCPIP.pdf)
 For this lab students can work alone or in group of 2 to 3 students.
-DEADLINE 6 Oct 11:59 PM
+DEADLINE 6 Nov. 11:59 PM
 
 This lab should contain a more detailed **LAB REPORT** and should cover the following(see section 4 from lab description):
  * *Design*: The design of your attack, including strategies that you used and tools that you used.
