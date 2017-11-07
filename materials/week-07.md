@@ -17,6 +17,9 @@ This lab should contain a more detailed **LAB REPORT** and should cover the foll
  * *Explanation*: You need to document by searching on Internet or from your experiments why your attack works or why not.
 
 
+### Notes:
+  * [bridge & wireshark](https://osqa-ask.wireshark.org/questions/13332/cannot-capture-packets-between-two-vmware-virtual-machines-on-the-same-host)
+
 
 ### Resources
 As always those are required for successfully complete the tasks and for quiz.
