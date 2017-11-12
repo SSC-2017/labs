@@ -3,20 +3,31 @@
 The objective of this lab is to understand how DNS attacks work.
 
 
-### Problems
-- [CSRF Attacks](http://www.cis.syr.edu/~wedu/seed/Labs/Web/CSRF_Collabtive/)
-- [XSS Attacks](http://www.cis.syr.edu/~wedu/seed/Labs/Web/XSS_Collabtive/)
-- [SQL-injection Attacks](http://www.cis.syr.edu/~wedu/seed/Labs/Web/SQL_Injection_Collabtive/)
-	
+### Problems: [here](http://www.cis.syr.edu/%7Ewedu/seed/Labs/Attacks_DNS/DNS.pdf)
+
+For this lab students can work alone or in group of 2 to 3 students, and perform 3 attacks.
+
+DEADLINE 13 Nov. 11:59 PM
+
+This lab should contain a more detailed LAB REPORT and should cover the following(see section 4 from lab description):
+
+This lab should contain a more detailed **LAB REPORT** and should cover the following(see section 4 from lab description):
+ * *Design*: The design of your attack, including strategies that you used and tools that you used.
+ * *Observation*: Do you succeeded? Why not? What do you expect to see? etc..
+ * *Explanation*: You need to document by searching on Internet or from your experiments why your attack works or why not.
+
+
+### Notes:
+  * [bridge & wireshark](https://osqa-ask.wireshark.org/questions/13332/cannot-capture-packets-between-two-vmware-virtual-machines-on-the-same-host)
+
 
 ### Resources
-- [XSS](https://www.owasp.org/index.php/Cross-site_Scripting_(XSS))
-- [CSRF](https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF))
-- [SQL-injection](https://www.owasp.org/index.php/SQL_Injection)
-- [Web application security: Ch. 7; Ch. 10 (p.1-35)](https://web.archive.org/web/20120905053629/http://code.google.com/edu/submissions/daswani/index.html)
+As always those are required for successfully complete the tasks and for quiz.
 
-- [Play arround with an insecure web application](https://www.owasp.org/index.php/Webgoat#tab=Main)
-	- for other insecure applications check the following [link](https://www.checkmarx.com/2015/04/16/15-vulnerable-sites-to-legally-practice-your-hacking-skills/)
+ * [SEED lab course](http://www.cis.syr.edu/%7Ewedu/seed/Labs/Attacks_DNS/)
+ * [An Illustrated Guide to the Kaminsky DNS Vulnerability](http://unixwiz.net/techtips/iguide-kaminsky-dns-vuln.html)
+ * [Tools guide](http://www.cis.syr.edu/~wedu/seed/Documentation/Misc/netwox.pdf) and [examples](http://www.cis.syr.edu/%7Ewedu/Teaching/cis758/netw522/netwox-doc_html/html/examples.html)
+
 
 ### Virtual Machine - seedubuntu12.04 [Download](http://www.cis.syr.edu/~wedu/seed/lab_env.html)
 
