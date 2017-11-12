@@ -1,31 +1,20 @@
 # CS-SSC-2017
 
-
-## NOTICE
-
-If you have a laptop, consider bringing it with the required setup to the lab as the computers barely run 2 VMs at one time let alone 3.
-The configuration setup can be found on the lab page.
-
-### Reminder - Security Talk (presentation) ~~DEADLINE 5 Nov~~ status updated on spreadsheet.
-- [topic list](https://docs.google.com/spreadsheets/d/1Q5wXGK98RMclH6P88nW2YeXiKrz9E03j9ULzDwMXx4U/edit?usp=sharing) should already be final.
-
-## Test: [URL](https://goo.gl/forms/uzUrUPE0rY6CipC62)
-
 ## Emails:
 Please add `[SSC]` in the email subject.
  * krody.robi@gmail.com
  * flavius.mecea@gmail.com
 
 ### Computer security 
-Updated: 3 Nov. 22pm
+Updated: 12 Nov. 12am
 
 - [Rules](./Rules.md)
-- [Latest lab notes](./materials/week-07.md) 
+- [Latest lab notes](./materials/week-08-09.md) 
 - Lab [grades](https://docs.google.com/spreadsheets/d/1QIXVsl0xkdBPtROjmkI7Fu-8IuidCkD3Ni_2N5Vr_us/edit?usp=sharing)
 
 ### Securitatea Sistemelor de calcul
-Updated: 3 Nov. 22pm
+Updated: 12 Nov. 12am
 
 - [Reguli](./Reguli.md)
-- [Notite laborator curent](./materials/week-07.md)
+- [Notite laborator curent](./materials/week-08-09.md)
 - [Note](https://docs.google.com/spreadsheets/d/1QIXVsl0xkdBPtROjmkI7Fu-8IuidCkD3Ni_2N5Vr_us/edit?usp=sharing) laborator
