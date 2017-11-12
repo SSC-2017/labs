@@ -1,5 +1,12 @@
 # CS-SSC-2017
 
+## Labs 8-9
+- The next 2 weeks we will have 3 labs in one-ish session.
+- No longer are you to work in teams, each person will have to present their own work.
+- You are required to bring all problems from each chapter, each representing a grade in the average.
+- You can come and present all solutions in one week, presence for the other not being necessary.
+- If you have questions I'll be at the labs.
+
 ## Emails:
 Please add `[SSC]` in the email subject.
  * krody.robi@gmail.com
