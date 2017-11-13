@@ -7,6 +7,8 @@
 - You can come and present all solutions in one week, presence for the other not being necessary.
 - If you have questions I'll be at the labs.
 
+## Prezentations can be found [here](https://drive.google.com/drive/folders/1VGLXKxtpqtUc-Al4cZIYvnaWCsUNCjas?usp=sharing)
+
 ## Emails:
 Please add `[SSC]` in the email subject.
  * krody.robi@gmail.com
